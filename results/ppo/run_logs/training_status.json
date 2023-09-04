@@ -1,0 +1,123 @@
+{
+    "Seek": {
+        "checkpoints": [
+            {
+                "steps": 2999992,
+                "file_path": "results\\ppo\\Seek\\Seek-2999992.onnx",
+                "reward": 5.300233066082001,
+                "creation_time": 1684956393.5120914,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Seek\\Seek-2999992.pt"
+                ]
+            },
+            {
+                "steps": 3499990,
+                "file_path": "results\\ppo\\Seek\\Seek-3499990.onnx",
+                "reward": 13.79652475938201,
+                "creation_time": 1684957551.4051824,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Seek\\Seek-3499990.pt"
+                ]
+            },
+            {
+                "steps": 3999955,
+                "file_path": "results\\ppo\\Seek\\Seek-3999955.onnx",
+                "reward": 7.169019502898057,
+                "creation_time": 1684958714.9208436,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Seek\\Seek-3999955.pt"
+                ]
+            },
+            {
+                "steps": 4499940,
+                "file_path": "results\\ppo\\Seek\\Seek-4499940.onnx",
+                "reward": 23.57215565443039,
+                "creation_time": 1684959882.1910155,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Seek\\Seek-4499940.pt"
+                ]
+            },
+            {
+                "steps": 4731220,
+                "file_path": "results\\ppo\\Seek\\Seek-4731220.onnx",
+                "reward": 9.505628802455389,
+                "creation_time": 1684960504.6589355,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Seek\\Seek-4731220.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4731220,
+            "file_path": "results\\ppo\\Seek.onnx",
+            "reward": 9.505628802455389,
+            "creation_time": 1684960504.6589355,
+            "auxillary_file_paths": [
+                "results\\ppo\\Seek\\Seek-4731220.pt"
+            ]
+        }
+    },
+    "Hide": {
+        "checkpoints": [
+            {
+                "steps": 2999968,
+                "file_path": "results\\ppo\\Hide\\Hide-2999968.onnx",
+                "reward": -14.363390474215798,
+                "creation_time": 1684956393.1944833,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Hide\\Hide-2999968.pt"
+                ]
+            },
+            {
+                "steps": 3499941,
+                "file_path": "results\\ppo\\Hide\\Hide-3499941.onnx",
+                "reward": -10.571599381168683,
+                "creation_time": 1684957551.2331576,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Hide\\Hide-3499941.pt"
+                ]
+            },
+            {
+                "steps": 3999972,
+                "file_path": "results\\ppo\\Hide\\Hide-3999972.onnx",
+                "reward": -5.45144139819367,
+                "creation_time": 1684958715.0318685,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Hide\\Hide-3999972.pt"
+                ]
+            },
+            {
+                "steps": 4499958,
+                "file_path": "results\\ppo\\Hide\\Hide-4499958.onnx",
+                "reward": -8.949999147478271,
+                "creation_time": 1684959882.332018,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Hide\\Hide-4499958.pt"
+                ]
+            },
+            {
+                "steps": 4731262,
+                "file_path": "results\\ppo\\Hide\\Hide-4731262.onnx",
+                "reward": -2.6659998893737793,
+                "creation_time": 1684960504.737952,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Hide\\Hide-4731262.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4731262,
+            "file_path": "results\\ppo\\Hide.onnx",
+            "reward": -2.6659998893737793,
+            "creation_time": 1684960504.737952,
+            "auxillary_file_paths": [
+                "results\\ppo\\Hide\\Hide-4731262.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
